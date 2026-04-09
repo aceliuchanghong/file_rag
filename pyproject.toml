@@ -8,6 +8,7 @@ dependencies = [
     "concurrent-log-handler>=0.9.28",
     "duckdb>=1.4.0",
     "matplotlib>=3.10.6",
+    "numpy>=2.2.6",
     "openai>=1.65.4",
     "opencv-python>=4.11.0.86",
     "pandas>=2.3.1",
